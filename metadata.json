@@ -1,0 +1,7 @@
+{
+  "name": "SyncStream Watch Party",
+  "description": "A mobile-first watch party application allowing users to watch movies in sync via file upload, video link, or YouTube. Features an AI watch companion powered by Gemini.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
